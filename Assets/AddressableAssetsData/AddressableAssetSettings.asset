@@ -13,6 +13,9 @@ MonoBehaviour:
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
   m_DefaultGroup: ca9ecd2f7621f0a449aff70ad357f3f4
+  m_CachedHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -76,6 +79,20 @@ MonoBehaviour:
         m_Value: ServerData/[BuildTarget]
       - m_Id: 6968f6c93a0f47c4c8ff0c04e0ce0400
         m_Value: https://sense-capital.github.io/RemoteContent/ServerData/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: b08275dfd3a3a3f4ca715bf3d8f345cd
+      m_ProfileName: TestingRepository
+      m_Values:
+      - m_Id: 41a656fd82f7fbd418adb865b4dd3d10
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 02b9b1ca1ce4f754f8258c62f7418ef7
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 418e26fc69815b04987e96dd2f96b7e2
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 1490192308303bb49814914b54d3728f
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 6968f6c93a0f47c4c8ff0c04e0ce0400
+        m_Value: https://artemiys930519.github.io/AddressablesContent/ServerData/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 41a656fd82f7fbd418adb865b4dd3d10
       m_Name: BuildTarget
@@ -110,7 +127,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 99f4b9c2d83341b46ae6a9eda091ce8b, type: 2}
   - {fileID: 11400000, guid: 1fc3e68af789288498a395c7782193cc, type: 2}
   - {fileID: 11400000, guid: 49ea2a1331acd334182a20203724b74d, type: 2}
-  m_ActiveProfileId: 4b089849b28c63c4489f08b52b5a4060
+  m_ActiveProfileId: 47d130641afb46d4eb47098c02ca4529
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}
