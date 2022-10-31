@@ -17,76 +17,10 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 25d47a7d2eab56447bdd8e657b9061cf
   m_SerializeEntries:
-  - m_GUID: df858f94d05745141b14c97c56eec5b7
-    m_Address: Sphere
+  - m_GUID: 99c9720ab356a0642a771bea13969a05
+    m_Address: Dynamic scene test
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: b4d9e39d272ebd548b065c6d4eaabc0e
-    m_Address: SphereScene
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 16d0973c6e82b6142a80c5fb32ae39c9
-    m_Address: CubeScene
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 6979d40c3becbcc44b658c547d85a918
-    m_Address: Level
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: d239d9940f791a0498be3f0a8ef21ee1
-    m_Address: Hologram
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 4b8d8aa6e49dbae44be25f522cd476c7
-    m_Address: SpaceStationBase
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: b3a15d272220656488083142dbf97e67
-    m_Address: Table_02
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 6f18f3d7388867f48bae43fa62fdb11c
-    m_Address: Couch_LODs
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 2fbdc41b0d3b3494ea6acefbcee475d7
-    m_Address: Lamp
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 128ac953fd76a7f42a1e3e5046e5d890
-    m_Address: Table_LODs
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 54d853ed88ecd74449c375a6f83c8551
-    m_Address: Piano_LODs
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 522d139158d8bb242b995826f03dc527
-    m_Address: TV
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 216523d0665598444afa90a63c22ec0f
-    m_Address: Lights
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 33a6e13a95781804f9bed645ec60b9d6
-    m_Address: Seat_LODs
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 754c919522df78c4eaf7b9bc6abac5cf, type: 2}
   m_SchemaSet:

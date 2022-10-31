@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Id: 6968f6c93a0f47c4c8ff0c04e0ce0400
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
-  m_overridePlayerVersion: Sense
+  m_overridePlayerVersion: Scene
   m_GroupAssets:
   - {fileID: 11400000, guid: 9b3308232fd384b4d8076fbacf1dbb3f, type: 2}
   - {fileID: 11400000, guid: a7990fd5b30b3af4fbd20ccaa9170126, type: 2}
@@ -76,9 +76,9 @@ MonoBehaviour:
       - m_Id: 418e26fc69815b04987e96dd2f96b7e2
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 1490192308303bb49814914b54d3728f
-        m_Value: ServerData/[BuildTarget]
+        m_Value: ServerData/AddressablesContent/[BuildTarget]
       - m_Id: 6968f6c93a0f47c4c8ff0c04e0ce0400
-        m_Value: https://sense-capital.github.io/RemoteContent/ServerData/[BuildTarget]
+        m_Value: https://sense-capital.github.io/RemoteContent/ServerData/AddressablesContent/[BuildTarget]
     - m_InheritedParent: 
       m_Id: b08275dfd3a3a3f4ca715bf3d8f345cd
       m_ProfileName: TestingRepository
@@ -90,7 +90,7 @@ MonoBehaviour:
       - m_Id: 418e26fc69815b04987e96dd2f96b7e2
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 1490192308303bb49814914b54d3728f
-        m_Value: ServerData/[BuildTarget]
+        m_Value: ServerData/Dynamicscenetest/[BuildTarget]
       - m_Id: 6968f6c93a0f47c4c8ff0c04e0ce0400
         m_Value: https://artemiys930519.github.io/AddressablesContent/ServerData/[BuildTarget]
     m_ProfileEntryNames:
